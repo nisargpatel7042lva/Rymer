@@ -38,8 +38,3 @@ To get started with the project locally, follow these steps.
 - **Node.js** (v12 or higher) and **npm**
 - **Git** for version control
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/lyriks.git
-cd lyriks
