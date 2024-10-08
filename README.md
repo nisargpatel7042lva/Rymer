@@ -1,6 +1,5 @@
 # 🎧 Lyriks - Spotify Clone App
 
-![Lyriks Banner](https://your-image-url.com/banner.png) <!-- Replace with your actual banner URL or screenshot -->
 
 **Lyriks** is a fully responsive, feature-rich Spotify clone built with modern web technologies. This project allows users to browse music, manage playlists, and stream audio seamlessly. Powered by **React**, styled with **Tailwind CSS**, and follows **Airbnb's ESLint guidelines** for code quality.
 
@@ -27,14 +26,6 @@
 - **Backend**: [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/) (or your chosen backend)
 - **Database**: [MongoDB](https://www.mongodb.com/) (or relevant database)
 - **Music API**: [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
-
----
-
-## 🖼️ Screenshots
-
-| Home Page                     | Music Player                   | Playlists                        |
-|--------------------------------|--------------------------------|----------------------------------|
-| ![Home Page](https://your-image-url.com/home.png) | ![Player](https://your-image-url.com/player.png) | ![Playlists](https://your-image-url.com/playlist.png) |
 
 ---
 
